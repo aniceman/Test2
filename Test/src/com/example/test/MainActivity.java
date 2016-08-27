@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 
-	//11122222222222222222222222222
+	//111222
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
